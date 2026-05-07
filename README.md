@@ -89,7 +89,7 @@ The site includes:
 - `robots.txt` and `sitemap.xml` for static route discovery.
 - A PNG favicon and social preview image.
 
-The canonical URL and sitemap currently target `https://findassure-research-portfolio.vercel.app/`. Update them if the final Vercel production domain changes.
+The canonical URL and sitemap currently target `https://findassure-v2.0.vercel.app/`. Update them if the final Vercel production domain changes.
 
 ## Research Keywords
 

@@ -1,7 +1,7 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://findassure-research-portfolio.vercel.app/sitemap.xml
+Sitemap: https://findassure-v2.0.vercel.app/sitemap.xml
 
 User-agent: *
 Allow: /
