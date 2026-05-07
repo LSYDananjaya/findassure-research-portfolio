@@ -1,7 +1,7 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://lsydananjaya.github.io/findassure-research-portfolio/sitemap.xml
+Sitemap: http://yehara.me/findassure-research-portfolio/sitemap.xml
 
 User-agent: *
 Allow: /

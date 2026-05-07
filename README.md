@@ -89,7 +89,7 @@ The site includes:
 - `robots.txt` and `sitemap.xml` for static route discovery.
 - A PNG favicon and social preview image.
 
-Update the canonical URL and sitemap host if the production deployment URL changes.
+The canonical URL and sitemap currently target `http://yehara.me/findassure-research-portfolio/`, which is the GitHub Pages URL reported for this repository.
 
 ## Research Keywords
 
