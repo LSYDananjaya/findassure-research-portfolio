@@ -89,7 +89,7 @@ The site includes:
 - `robots.txt` and `sitemap.xml` for static route discovery.
 - A PNG favicon and social preview image.
 
-The canonical URL and sitemap currently target `http://yehara.me/findassure-research-portfolio/`, which is the GitHub Pages URL reported for this repository.
+The canonical URL and sitemap currently target `https://findassure-research-portfolio.vercel.app/`. Update them if the final Vercel production domain changes.
 
 ## Research Keywords
 
